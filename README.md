@@ -1,7 +1,7 @@
 # cows-vs-dragons
 
 ![](https://img.shields.io/badge/Created%20by-Brandon%20Krussow-blue?style=for-the-badge)
-![](https://img.shields.io/badge/License-MIT-yellow?style=flat-square) (https://img.shields.io/badge/Language-C-blue) (https://img.shields.io/badge/ASCII%20Art-lightgrey)
+![](https://img.shields.io/badge/License-MIT-yellow?style=flat-square) ![](https://img.shields.io/badge/Language-C-blue) ![](https://img.shields.io/badge/ASCII%20Art-lightgrey)
 
 ## Description
 
